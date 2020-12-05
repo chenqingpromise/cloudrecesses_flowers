@@ -10,6 +10,6 @@ later features will be handled through this channel
 ## icons
 
 - :package: new feature/package
-- :up: upgrade
-- :beetle: bug correction
-- :checkered_flag: release
+- :cherry_blossom: upgrade
+- :tea: bug correction
+- :lantern: release
