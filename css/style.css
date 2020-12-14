@@ -107,7 +107,7 @@ header {
 
 .banner {
     position: absolute;
-    top: 40%;
+    top: 25%;
     right: 1%;
     left: 1%;
     animation: moveBanner 2s 0.5s forwards;
@@ -115,23 +115,23 @@ header {
 
 .banner h1{
     color: rgb(230, 235, 235);
-    font-size: 2.8rem;
+    font-size: 4rem;
     font-family: 'Inconsolata', monospace;
     font-weight: 400;
     text-shadow: .2rem .1rem 1px  rgb(134, 166, 169);
-    margin-bottom: 1%;
+    margin-bottom: 3.5%;
     position: relative;
-    margin-left: 1.5rem;
+    margin-left:8rem;
    
 }
 
 .banner p{
     font-family: 'Arapey', serif;
     color: rgb(255, 255, 255);
-    font-size: 1.5rem;
+    font-size: 2rem;
     text-shadow: .1rem .0rem 1px rgba(62, 114, 128, 0.6);
-    margin-bottom: 3%;
-    margin-left: 3rem;
+    margin-bottom: 5%;
+    margin-left: 10rem;
 }
 
 .botoes-items {
@@ -148,7 +148,7 @@ header {
     color: #657780;
     font-family: Sans-serif;
     font-size: 1rem;
-    padding: 0.2rem 2.5rem;
+    padding: 0.1rem 2.5rem;
     text-align: center;
     border: 0;
     transition: all 0.3s ease 0s;
@@ -226,4 +226,9 @@ header {
   
   .social-media img:hover {
     background-color: #f4f4f4;
+  }
+
+  .sessao-header h1 {
+    text-align: center;
+    padding: 4rem 5rem;
   }
